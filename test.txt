@@ -4,3 +4,4 @@ git diff test
 gitreset
 gitcommit
 amend
+test2
