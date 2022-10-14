@@ -5,3 +5,4 @@ gitreset
 gitcommit
 amend
 git merge
+test
